@@ -11,13 +11,8 @@ Amb linux:
         python3 -m venv .venv
 
 Amb windows:
-    
-        ```
-                python -m venv .venv
-        ```
-        ```
-		python -m venv .venv
-        ```
+
+        python -m venv .venv
 
 PARA ACTIVAR-LO:
     
