@@ -1,10 +1,10 @@
 # PROJECTA M04 RSS Y FLASK
 
-DOCUMENTACIÓ DE FLASK: [Flask](https://flask.palletsprojects.com/en/3.0.x/)
+**DOCUMENTACIÓ DE FLASK:** [Flask](https://flask.palletsprojects.com/en/3.0.x/)
 
-CREACIONS DE ENTORNS VIRUTALS: [Python](https://docs.python.org/es/3/library/venv.html)
+**CREACIONS DE ENTORNS VIRUTALS:** [Python](https://docs.python.org/es/3/library/venv.html)
 
-COM CREAR UN ENTORN:
+**COM CREAR UN ENTORN:**
     
 Amb linux:
 
@@ -14,7 +14,7 @@ Amb windows:
 
         python -m venv .venv
 
-PARA ACTIVAR-LO:
+**PARA ACTIVAR-LO:**
     
 Amb Linux:
 
