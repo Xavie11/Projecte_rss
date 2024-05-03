@@ -12,3 +12,12 @@ COM CREAR UN ENTORN:
     Amb windows:
 
 		python -m venv .venv
+
+PARA ACTIVAR-LO:
+    Amb Linux:
+
+        source .venv/bin/activate
+        
+    Amb Windows:
+
+        .venv\Scripts\activate
