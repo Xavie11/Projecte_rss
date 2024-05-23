@@ -75,6 +75,10 @@ def insert():
         return redirect(url_for('insert'))
 
 @app.route('/')
+def inici():
+    return render_template("index.html")
+
+@app.route('/index')
 def index():
     return render_template("index.html")
 

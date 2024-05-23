@@ -6,3 +6,25 @@ img {
     width: 400px;
     height: auto;
 }
+
+.container-fluid {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container-fluid h1 {
+    margin: 0;
+}
+
+.container-fluid img {
+    margin-left: auto;
+}
+
+.enlace{
+    color:white;
+    text-decoration: none;
+    background-color: none;
+}
