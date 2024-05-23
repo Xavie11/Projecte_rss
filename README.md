@@ -1,6 +1,6 @@
 # PROJECTA M04 RSS Y FLASK
 
-![plot](/static/img/1.jpeg)
+![plot](/static/img/rss_logo.jpeg)
 
 
 **DOCUMENTACIÓ DE FLASK:** [Flask](https://flask.palletsprojects.com/en/3.0.x/)
